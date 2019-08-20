@@ -42,12 +42,12 @@ Depois execute o comando:
 - [x] Configuração do ambiente
 - [x] Criação da aplicação
 - [x] Instalação das libs
-- [ ] Configuração das rotas
-- [ ] Configuração das styled
+- [x] Configuração das rotas
+- [x] Configuração das styled
 - [ ] Criação de components
 - [ ] Configuração Firebase
-- [ ] Tela de cadastro Nutricionista
-- [ ] Tela de cadastro Paciente
+- [x] Tela de cadastro Nutricionista
+- [x] Tela de cadastro Paciente
 
  #### 1.1 - Desenvolvimento perfil Nutricionista
 - [ ] Criação perfil Nutricionista
